@@ -1,0 +1,24 @@
+		Lambda Expression
+		 1. Are Used for defined anonymous Expressions or Nameless Methods.
+		 2. Are defined with the help of Intefaces.
+		 3. If an Interface is having Single abstract method then it is called Functional Interface.
+		 4. We can also give an annotation -> @functionalInterface
+		 5. The Lambda Expression is very powerful and Handy.
+		 6. It saves space and makes the code short.
+		 7. Lambda makes the programming easy at it saves the time to override a method from interface.
+		 
+		 8. A lambda Expression can be accessed only those variables outside its context.
+		 9.	Until and unless a variable is final or effectively final!.
+		 10. Overall Lambda expression can capture the variable if the variable is declared final or is not updates at all!.
+		 11. We can access instance/Global variable.
+		 12. Lambda Expression are similar of Inner Class.
+		 
+		 
+		 13. Method Reference : Method reference is created or defined using Functional Interface
+		 14. Functional Interface : If a method is created or defined inside a Interface which has only one method then it is called 
+		 		Functional Interface...
+		 15. On a functional Interface we can assign a reference to a method.
+		 
+		 
+		 16. Benefit to make compact Code..
+		 17. Overall, Indirectly we are acheiving Polymorphism without writing too much code.

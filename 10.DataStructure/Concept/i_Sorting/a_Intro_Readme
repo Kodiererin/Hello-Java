@@ -1,0 +1,27 @@
+Sorting in Java
+Sorting in Java are of two types :
+	 	1. Arrays.sort()
+						a. Arrays of Primitives Datatype(int,char,float) [Jiska Primitive Datatype ho.]
+						b. Array of objects: (String, Integer,Student etc..)
+								Which will be based on Merge Sort.
+		2. Collection.sort()
+						a. for lists(Array List , Linked List )
+						for List Mergesort and timsort is widely used.
+						where Timsort is uses 2 sorting algorithm Quick sort and Mergesort.
+						MergeSort for sorting short size arrays.
+						Quicj Sort for Sorting Large Arrays.
+						
+1. Collection are there for Primitive Datatypes.
+2. Collection.sort are only available for list Interface collections.
+3. Array List, LinkedList cannot have String, Integer ie: Wrapper Class. 
+
+
+4. Dual Pivot sort is slightly fast.
+5. TimSort is widely used in Python and ensures stability.
+
+6. Stability : Stability means while sorting when any multiple elements are same then their order are not changed while sorting.
+
+	While playing with objects Stability is always preferred.
+	In primitive datatype Stability is not required.
+	In Non Primitive datatype Stability is Requied.
+	

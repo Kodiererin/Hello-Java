@@ -1,0 +1,25 @@
+	Introduction : 
+
+AWT : Platorm Dependent, Heavy Weight , Few Components , Host Look and Feel , No MVC
+SWING : Independent , Light Weight , Many Component , Pluggable Look and Feel , Support MVC
+
+Latest One is JAVA FX which is more advanced than Swing and AWT.
+
+AWT was from Begining of Java.
+ Java is Platform independent but AWT is platform Dependent.
+ It burrows components like button, text box from OS.
+ Component look and feel dependes upon OS which is bad.
+ Heavy Weight : as it interacts with OS to function
+ 
+ 
+ 
+ 
+ 
+ 
+ Swing : Also called JVC
+ We can create an Object which will have its own look and feel but in AWT it dosent have its own look and feel.
+ We can change the look and feel of a Java application.
+ Swing carries its own look and feel which is GOOD.
+All the class Provided by Java is JFC 
+Components like : Tab Pain , Color chooser, Frames inside another frame.
+Look and feel : Metal Default , Nnimbus , Motif , Windows , Windows classis (ise hm aasan bhasha me theme vi bol skte h)
